@@ -1,4 +1,4 @@
-# Employee Mangement website 
+# Employee Management Website
 
 A simple full-stack web application that allows administrators to perform CRUD (Create, Read, Update, Delete) operations on employee records.
 
@@ -11,10 +11,9 @@ A simple full-stack web application that allows administrators to perform CRUD (
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
-- Database: (Add here if you used one, e.g., MongoDB or MySQL)
 
 ## 📽 Demo
-Check out the screen recording: [demo.mp4](./demo.mp4)
+Check out the screen recording: [Watch Demo Video](https://github.com/941-Abhi/Prodigy_2/blob/99df69c7ca3bacdbc9ff7ff85b779d68347cea6a/demo.mp4)
 
 ## 🚀 How to Run
 1. Clone the repository
